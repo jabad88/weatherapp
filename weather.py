@@ -1,4 +1,3 @@
-#openweatherapi pw: weatherboy27
 import json
 import requests
 import argparse
