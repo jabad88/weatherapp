@@ -7,7 +7,6 @@ import os
 
 def main():
     load_dotenv()
-
     city, unit = get_args()
     print (get_weather(city, unit))
  
